@@ -1,0 +1,34 @@
+.ipynb_checkpoints/
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.log
+*.tmp
+*.bak
+.DS_Store
+Thumbs.db
+
+# Python virtual environments
+.venv/
+venv/
+env/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# VS Code
+.vscode/
+
+# Data science caches
+.cache/
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+
+# Project data and notebooks
+week 4/data/
+*.ipynb
+
+# OS files
+Desktop.ini
