@@ -1,0 +1,15 @@
+Community health activity extract - teaching file,,,,,,,,
+ Area Code , AREA NAME , Reporting Year , Age Group , SEX , Appointments , Average Wait Days , Follow-Up Needed , Notes 
+CH001,Northside,2024,0 - 17,F,"1,250",7 days,Yes,school clinics
+CH001, Northside ,2024,18 to 64,Male,980,5,no,
+CH001,NORTHSIDE,2024,65 plus,Female,430,,Y,telephone follow-up
+CH002,Riverside,2024,0-17,female,875,6,N,
+CH002,Riverside,2024,18-64,M,1 040,8 days,yes,evening service
+CH002,Riverside,2024,65+,Male,310,-1,No,data-entry error in wait
+CH003,Hilltown,2024,0–17,F,620,9,YES,
+CH003,Hilltown,2024,18 to 64,male,nine hundred,10,n,
+CH003,,2024,65 plus,Female,275,12,Yes,area name missing
+CH003,,2024,65 plus,Female,275,12,Yes,area name missing
+CH001,Northside,2025,0-17,Female,1280,6,No,
+CH002,Riverside,2025,18-64,,1060,7,,sex and follow-up missing
+CH003,Hilltown,2025,65+,M,not available,11,Yes,appointments missing

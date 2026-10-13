@@ -1,0 +1,7 @@
+area_code,area_name,year,population,region,deprivation_band
+CH001,Northside,2024,52400,North,Low
+CH001,Northside,2025,53100,North,Low
+CH002,Riverside,2024,48750,North,Medium
+CH002,Riverside,2025,49200,North,Medium
+CH003,Hilltown,2024,36900,North,High
+CH003,Hilltown,2025,,North,High
